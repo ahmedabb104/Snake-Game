@@ -1,5 +1,5 @@
 # Snake-Game
-Classical snake game. To play, run main.exe
+Classic snake game made using Pygame. To play, run main.exe
 
 Controls:
 - Use the arrow keys to move the snake
